@@ -1,0 +1,2 @@
+module labAssign2 {
+}
